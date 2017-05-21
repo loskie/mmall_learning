@@ -14,7 +14,7 @@
     <!--<context:annotation-config/>-->
     <aop:aspectj-autoproxy/>
 
-
+    <!--<context:annotation-config/>-->
     <import resource="applicationContext-datasource.xml"/>
 
 
